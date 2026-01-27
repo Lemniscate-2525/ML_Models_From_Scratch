@@ -38,3 +38,4 @@ All models are accompanied by handwritten mathematical derivations, including:
 - Optimization updates
 
 These derivations are available in: 
+Proofs.pdf
